@@ -1,0 +1,36 @@
+name: クリップデータ更新
+
+on:
+  schedule:
+    - cron: "0 15 * * 0"  # 毎週日曜 0:00 JST（UTC 15:00）
+  workflow_dispatch:        # 手動実行ボタンも有効化
+
+jobs:
+  update-clips:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Python をセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 依存ライブラリをインストール
+        run: pip install requests
+
+      - name: クリップデータを取得
+        env:
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+        run: python fetch_clips.py --channel 100nekox --output data/clips.json
+
+      - name: 変更をコミット＆プッシュ
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/clips.json
+          git diff --cached --quiet || git commit -m "🎬 クリップデータ更新 $(date '+%Y-%m-%d')"
+          git push
