@@ -723,3 +723,23 @@ body {
   .modal-card { border-radius: 14px; }
   .modal-info { padding: 16px 18px 20px; }
 }
+
+/* もっと見るボタン */
+.btn-load-more {
+  display: block;
+  margin: 2rem auto;
+  padding: 0.75rem 2rem;
+  background: #fff;
+  color: #c2185b;
+  border: 2px solid #c2185b;
+  border-radius: 999px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  grid-column: 1 / -1;
+}
+.btn-load-more:hover {
+  background: #c2185b;
+  color: #fff;
+}

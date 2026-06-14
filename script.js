@@ -8,6 +8,8 @@ const CONFIG = {
 
 let allClips = [];
 let filtered  = [];
+let displayCount = 30;
+const PAGE_SIZE  = 30;
 
 // DOM
 const searchInput   = document.getElementById('searchInput');
@@ -119,6 +121,7 @@ function applyFiltersAndRender() {
   });
 
   filtered = sortClips(filtered, sort);
+  displayCount = PAGE_SIZE;
   renderGrid(filtered);
   updateStatus(filtered.length, allClips.length, query, game, creator);
 }
@@ -148,9 +151,22 @@ function renderGrid(clips) {
   }
   emptyState.classList.add('hidden');
 
+  const visible = clips.slice(0, displayCount);
   const fragment = document.createDocumentFragment();
-  clips.forEach((clip, i) => fragment.appendChild(createCard(clip, i)));
+  visible.forEach((clip, i) => fragment.appendChild(createCard(clip, i)));
   clipGrid.appendChild(fragment);
+
+  // もっと見るボタン
+  if (displayCount < clips.length) {
+    const btn = document.createElement('button');
+    btn.className = 'btn-load-more';
+    btn.textContent = `もっと見る（残り ${clips.length - displayCount} 件）`;
+    btn.addEventListener('click', () => {
+      displayCount += PAGE_SIZE;
+      renderGrid(clips);
+    });
+    clipGrid.appendChild(btn);
+  }
 }
 
 function createCard(clip, index) {
