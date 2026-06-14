@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>クリップ検索 | もこちゃんクリップ倉庫</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;500;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ===== HEADER ===== -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="header-logo">
+        <span class="logo-icon">ദ്ദി₍ᵔ- ̫-ᵔ₎</span>
+        <div class="logo-text">
+          <span class="logo-title">もこちゃんクリップ倉庫</span>
+          <span class="logo-sub">Clip Archive</span>
+        </div>
+      </div>
+      <div class="header-stats" id="headerStats">
+        <span class="stat-badge" id="totalCount">— clips</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===== HERO / SEARCH ===== -->
+  <section class="hero-section" id="heroSection">
+    <div class="hero-glow"></div>
+    <div class="hero-inner">
+      <p class="hero-eyebrow">🐱 クリップを検索</p>
+      <h1 class="hero-title">もこちゃんの名シーンを<br>見つけてみよう</h1>
+    </div>
+  </section>
+
+  <!-- ===== STICKY SEARCH BAR ===== -->
+  <div class="sticky-search" id="stickySearch">
+    <div class="sticky-inner">
+      <!-- Search bar -->
+      <div class="search-wrap">
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input
+            type="text"
+            id="searchInput"
+            class="search-input"
+            placeholder="キーワードを入力…（例：もこちゃん、Overwatch、Minecraft）"
+            autocomplete="off"
+          />
+          <button class="search-clear" id="searchClear" aria-label="クリア">✕</button>
+        </div>
+      </div>
+
+      <!-- Controls row -->
+      <div class="controls-row">
+        <!-- Game filter -->
+        <div class="control-group">
+          <label class="control-label">ゲーム</label>
+          <select id="gameFilter" class="control-select">
+            <option value="">すべて</option>
+          </select>
+        </div>
+
+        <!-- Creator filter -->
+        <div class="control-group">
+          <label class="control-label">切り抜き者</label>
+          <select id="creatorFilter" class="control-select">
+            <option value="">すべて</option>
+          </select>
+        </div>
+
+        <!-- Sort -->
+        <div class="control-group">
+          <label class="control-label">並び替え</label>
+          <select id="sortSelect" class="control-select">
+            <option value="views_desc">再生数が多い順</option>
+            <option value="views_asc">再生数が少ない順</option>
+            <option value="date_desc">新しい順</option>
+            <option value="date_asc">古い順</option>
+            <option value="duration_desc">長い順</option>
+            <option value="duration_asc">短い順</option>
+          </select>
+        </div>
+
+        <!-- Clear filters button -->
+        <button class="btn-clear-filters" id="clearFiltersBtn" title="条件をリセット">
+          ✕ クリア
+        </button>
+
+        <!-- Random button -->
+        <button class="btn-random" id="randomBtn">
+          <span class="btn-random-icon">🎲</span>
+          ランダム表示
+        </button>
+
+        <!-- Twitch link -->
+        <a
+          href="https://www.twitch.tv/100nekox"
+          target="_blank"
+          rel="noopener"
+          class="btn-twitch"
+        >
+          もこちゃんのTwitchはこちら
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== RESULT AREA ===== -->
+  <main class="main-content">
+
+    <!-- Status bar -->
+    <div class="status-bar" id="statusBar">
+      <span id="resultCount">読み込み中…</span>
+    </div>
+
+    <!-- Clip grid -->
+    <div class="clip-grid" id="clipGrid">
+      <!-- Cards injected by JS -->
+    </div>
+
+    <!-- Empty state -->
+    <div class="empty-state hidden" id="emptyState">
+      <div class="empty-icon">🎬</div>
+      <p class="empty-title">クリップが見つかりませんでした</p>
+      <p class="empty-sub">別のキーワードやフィルターを試してみてください</p>
+      <button class="btn-reset" id="resetBtn">リセットする</button>
+    </div>
+
+    <!-- Loading state -->
+    <div class="loading-state" id="loadingState">
+      <div class="spinner"></div>
+      <p>クリップを読み込み中…</p>
+    </div>
+
+  </main>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="site-footer">
+    <p>このサイトは非公式のファンサイトです。クリップの著作権はそれぞれの権利者に帰属します。</p>
+  </footer>
+
+  <!-- ===== MODAL (clip preview) ===== -->
+  <div class="modal-overlay hidden" id="modalOverlay">
+    <div class="modal-card">
+      <button class="modal-close" id="modalClose" aria-label="閉じる">✕</button>
+      <div class="modal-thumb-wrap">
+        <img class="modal-thumb" id="modalThumb" src="" alt="" />
+        <a class="modal-play-btn" id="modalLink" href="#" target="_blank" rel="noopener">
+          <span class="modal-play-icon">▶</span>
+          Twitchで見る
+        </a>
+      </div>
+      <div class="modal-info">
+        <p class="modal-game" id="modalGame"></p>
+        <h2 class="modal-title" id="modalTitle"></h2>
+        <div class="modal-meta">
+          <span id="modalViews"></span>
+          <span id="modalDate"></span>
+          <span id="modalDuration"></span>
+        </div>
+        <p class="modal-creator">切り抜き: <span id="modalCreator"></span></p>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
