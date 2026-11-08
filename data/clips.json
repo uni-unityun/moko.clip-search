@@ -29,7 +29,7 @@
     "id": "CoyTriumphantPorpoiseUnSane-j9MmolUryTEpXdPQ",
     "title": "何だよこの波は〜！",
     "game": "Overwatch",
-    "views": 64,
+    "views": 65,
     "duration": 30,
     "created_at": "2026-02-28T12:24:47Z",
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0600e88b-a7ca-4883-a371-222bfa008b32/landscape/thumb/thumb-0000000000-480x272.jpg",
@@ -55,7 +55,7 @@
     "id": "AlertWiseCockroachMingLee-JiqnG37kNXxnq3k0",
     "title": "くっさ～♥(照れる)",
     "game": "Just Chatting",
-    "views": 46,
+    "views": 47,
     "duration": 5,
     "created_at": "2026-06-03T14:03:14Z",
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/23506ac1-23c9-43ac-99cb-cbc94c062fa5/landscape/thumb/thumb-0000000000-480x272.jpg",
@@ -117,6 +117,19 @@
     "broadcaster_name": "百猫もこ"
   },
   {
+    "id": "SwissRealKoupreyLeeroyJenkins-_F0xC_pEGPQkNbMJ",
+    "title": "べー",
+    "game": "Just Chatting",
+    "views": 34,
+    "duration": 5,
+    "created_at": "2026-10-17T12:37:24Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/251e97ef-2dca-4eac-8044-aeba679120f5/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/SwissRealKoupreyLeeroyJenkins-_F0xC_pEGPQkNbMJ",
+    "creator_name": "いいな117",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
     "id": "TransparentRelatedTildePeteZarollTie-qLmPbkYWMqT4mhdt",
     "title": "ウルトはこの世のどこかに置いてきた",
     "game": "Overwatch",
@@ -126,19 +139,6 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/4dfa398b-9234-4e38-b8f3-8fabb79d96c3/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/TransparentRelatedTildePeteZarollTie-qLmPbkYWMqT4mhdt",
     "creator_name": "花江なつき大好き人間",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
-    "id": "SwissRealKoupreyLeeroyJenkins-_F0xC_pEGPQkNbMJ",
-    "title": "べー",
-    "game": "Just Chatting",
-    "views": 33,
-    "duration": 5,
-    "created_at": "2026-10-17T12:37:24Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/251e97ef-2dca-4eac-8044-aeba679120f5/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/SwissRealKoupreyLeeroyJenkins-_F0xC_pEGPQkNbMJ",
-    "creator_name": "いいな117",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -273,19 +273,6 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "GoldenPlumpGrouseThunBeast-rPUl9n_f_EjH5T5l",
-    "title": "裏切りのもこちゃん",
-    "game": "Overwatch",
-    "views": 25,
-    "duration": 19,
-    "created_at": "2026-04-28T17:15:10Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/aef2bc73-e3ce-4586-a1da-b48ad406bd63/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/GoldenPlumpGrouseThunBeast-rPUl9n_f_EjH5T5l",
-    "creator_name": "柚雲丹うに",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
     "id": "ApatheticSpunkyPassionfruitStinkyCheese-pxhMR8aQdk-h6RR5",
     "title": "萌え萌えｷｭﾝ(嫌そう)",
     "game": "Just Chatting",
@@ -295,6 +282,19 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f316b6ae-e229-4a74-99bd-bc7010c31fdd/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/ApatheticSpunkyPassionfruitStinkyCheese-pxhMR8aQdk-h6RR5",
     "creator_name": "いいな117",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
+    "id": "GoldenPlumpGrouseThunBeast-rPUl9n_f_EjH5T5l",
+    "title": "裏切りのもこちゃん",
+    "game": "Overwatch",
+    "views": 25,
+    "duration": 19,
+    "created_at": "2026-04-28T17:15:10Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/aef2bc73-e3ce-4586-a1da-b48ad406bd63/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/GoldenPlumpGrouseThunBeast-rPUl9n_f_EjH5T5l",
+    "creator_name": "柚雲丹うに",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -367,7 +367,7 @@
     "id": "DeterminedLightDuckTebowing-PyE8O9pyYTdiK5Ok",
     "title": "挟まれちゃってる",
     "game": "Overwatch",
-    "views": 20,
+    "views": 21,
     "duration": 7,
     "created_at": "2026-10-19T14:30:32Z",
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/793dc774-ad6a-452f-9eee-78fafab98673/landscape/thumb/thumb-0000000000-480x272.jpg",
@@ -533,19 +533,6 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "AntediluvianIronicFungusTheThing-2nR9DhZ4VA6rduvH",
-    "title": "女達進めとけ…",
-    "game": "Overwatch",
-    "views": 18,
-    "duration": 7,
-    "created_at": "2026-09-20T12:09:12Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ce773699-6843-4bb5-ba3c-d6ea45aa6c10/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/AntediluvianIronicFungusTheThing-2nR9DhZ4VA6rduvH",
-    "creator_name": "りくや魔窟",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
     "id": "AffluentSmokyScorpionKappaClaus-Ek4dgRizLtEcEQTQ",
     "title": "うえーん(T_T)、fふpをあえいうじゃwhgdshgs",
     "game": "Overwatch",
@@ -555,6 +542,19 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/746d068d-8fc9-40ac-9972-23be5a36c7ea/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/AffluentSmokyScorpionKappaClaus-Ek4dgRizLtEcEQTQ",
     "creator_name": "ライ1090",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
+    "id": "AntediluvianIronicFungusTheThing-2nR9DhZ4VA6rduvH",
+    "title": "女達進めとけ…",
+    "game": "Overwatch",
+    "views": 18,
+    "duration": 7,
+    "created_at": "2026-09-20T12:09:12Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ce773699-6843-4bb5-ba3c-d6ea45aa6c10/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/AntediluvianIronicFungusTheThing-2nR9DhZ4VA6rduvH",
+    "creator_name": "りくや魔窟",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -715,6 +715,19 @@
     "broadcaster_name": "百猫もこ"
   },
   {
+    "id": "AlluringMoldyPuffinPastaThat-UQgfKeGTRUAAlx8O",
+    "title": "スーパーあのさタイム",
+    "game": "Overwatch",
+    "views": 16,
+    "duration": 47,
+    "created_at": "2026-10-19T13:09:03Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9d40d38b-2011-4094-b978-26de43b3e2af/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/AlluringMoldyPuffinPastaThat-UQgfKeGTRUAAlx8O",
+    "creator_name": "悪くない微熱",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
     "id": "BillowingIcyPandaDansGame-5o4-Q_CzyK5gU04Y",
     "title": "おう🎵おう🎵ハァッ！？",
     "game": "Overwatch",
@@ -776,19 +789,6 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9d07706f-b2ea-4d02-818c-105111498039/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/AgreeableBoredChickenBCWarrior-B8hSDsesNAMys_Nr",
     "creator_name": "ライ1090",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
-    "id": "AlluringMoldyPuffinPastaThat-UQgfKeGTRUAAlx8O",
-    "title": "スーパーあのさタイム",
-    "game": "Overwatch",
-    "views": 15,
-    "duration": 47,
-    "created_at": "2026-10-19T13:09:03Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9d40d38b-2011-4094-b978-26de43b3e2af/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/AlluringMoldyPuffinPastaThat-UQgfKeGTRUAAlx8O",
-    "creator_name": "悪くない微熱",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -962,6 +962,19 @@
     "broadcaster_name": "百猫もこ"
   },
   {
+    "id": "DifficultBoxyMuleWoofer-_Qz_--ewpTWU4NUq",
+    "title": "おきゃくさまー",
+    "game": "Overwatch",
+    "views": 14,
+    "duration": 20,
+    "created_at": "2026-10-15T12:31:38Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b26593bf-1a0d-43f3-afa7-f7a103565c11/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/DifficultBoxyMuleWoofer-_Qz_--ewpTWU4NUq",
+    "creator_name": "ライ1090",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
     "id": "PeacefulEnthusiasticJalapenoGingerPower-jDVZrNVapHcn5bM_",
     "title": "メスガキｲﾗｲﾗ",
     "game": "Overwatch",
@@ -1001,15 +1014,15 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "DifficultBoxyMuleWoofer-_Qz_--ewpTWU4NUq",
-    "title": "おきゃくさまー",
+    "id": "SoftHotTofuStoneLightning-qI57no1img-f5ZJb",
+    "title": "マーシーにおぎゃる一般成人女性",
     "game": "Overwatch",
     "views": 13,
-    "duration": 20,
-    "created_at": "2026-10-15T12:31:38Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b26593bf-1a0d-43f3-afa7-f7a103565c11/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/DifficultBoxyMuleWoofer-_Qz_--ewpTWU4NUq",
-    "creator_name": "ライ1090",
+    "duration": 9,
+    "created_at": "2026-10-22T12:49:04Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/aaa3ff66-2fc8-4a92-986c-5f31a9383894/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/SoftHotTofuStoneLightning-qI57no1img-f5ZJb",
+    "creator_name": "いいな117",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -1040,6 +1053,19 @@
     "broadcaster_name": "百猫もこ"
   },
   {
+    "id": "CourageousTardyChimpanzeePermaSmug-jSAavdvtEDRo57n_",
+    "title": "サイコパスモコち",
+    "game": "Resident Evil 5",
+    "views": 13,
+    "duration": 9,
+    "created_at": "2026-11-03T10:18:49Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c499a3cf-e0ed-4bc0-a224-727e83319c2a/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/CourageousTardyChimpanzeePermaSmug-jSAavdvtEDRo57n_",
+    "creator_name": "ブーブークッション",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
     "id": "RealAbstruseLarkKeyboardCat-wSBCNZuxuxIep6mG",
     "title": "ばぁ～か♥ばぁ～か♥",
     "game": "Overwatch",
@@ -1066,6 +1092,19 @@
     "broadcaster_name": "百猫もこ"
   },
   {
+    "id": "EnchantingInventiveLorisRiPepperonis-QYDODF5GH893_ZhH",
+    "title": "どうなってんだよぉー！！！",
+    "game": "Overwatch",
+    "views": 12,
+    "duration": 15,
+    "created_at": "2026-11-05T12:11:15Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c06bdd57-b2f1-4a7e-a5a4-4b8827c36aea/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/EnchantingInventiveLorisRiPepperonis-QYDODF5GH893_ZhH",
+    "creator_name": "ライ1090",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
     "id": "AdorableBlatantCodSSSsss-yKPPfmmOBTxPjqUT",
     "title": "疑惑の判定",
     "game": "Overwatch",
@@ -1088,19 +1127,6 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a7586398-30aa-44b8-bc38-6777087da003/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/TallRelievedFoxBudStar-odStMWA1djcsLzGV",
     "creator_name": "ライ1090",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
-    "id": "SoftHotTofuStoneLightning-qI57no1img-f5ZJb",
-    "title": "マーシーにおぎゃる一般成人女性",
-    "game": "Overwatch",
-    "views": 12,
-    "duration": 9,
-    "created_at": "2026-10-22T12:49:04Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/aaa3ff66-2fc8-4a92-986c-5f31a9383894/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/SoftHotTofuStoneLightning-qI57no1img-f5ZJb",
-    "creator_name": "いいな117",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -1153,6 +1179,19 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/31df9044-5525-4c83-9cc6-4b323d4bd443/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/GleamingFlaccidGerbilDancingBaby-QCO-KTOXS0LvTi0f",
     "creator_name": "ブーブークッション",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
+    "id": "CreativeViscousTofuSeemsGood-IUCBbpVf0_Dnxj2Z",
+    "title": "なんか、負けたいな〜って思ってぇ〜。",
+    "game": "Overwatch",
+    "views": 11,
+    "duration": 8,
+    "created_at": "2026-10-27T14:47:24Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7a85b519-24b8-4691-92f5-0d46c451718d/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/CreativeViscousTofuSeemsGood-IUCBbpVf0_Dnxj2Z",
+    "creator_name": "まさおｸﾝ",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -1257,19 +1296,6 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b74f43a4-2aee-488f-a963-64d345204fe0/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/SucculentLazyMinkVoHiYo-f0XRrTi7-JaAYWXz",
     "creator_name": "柚雲丹うに",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
-    "id": "ArtisticThoughtfulSageBrokeBack-tMkJn0AfrWvZrwRu",
-    "title": "グオォッ！クソォッ！オレはッ、岩も当てられッッッッ！",
-    "game": "Overwatch",
-    "views": 11,
-    "duration": 6,
-    "created_at": "2026-07-02T13:03:03Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3173143a-24ce-4e6a-971d-037c2d45e9a9/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/ArtisticThoughtfulSageBrokeBack-tMkJn0AfrWvZrwRu",
-    "creator_name": "いとうさんほ",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -1482,19 +1508,6 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "HardEsteemedBeeGivePLZ-daTDjwSJ5o47Z1Y1",
-    "title": "神スリープもこちゃん",
-    "game": "Overwatch",
-    "views": 10,
-    "duration": 6,
-    "created_at": "2026-06-09T13:49:46Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/4d667821-b23b-41af-b8e3-caf06006e22f/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/HardEsteemedBeeGivePLZ-daTDjwSJ5o47Z1Y1",
-    "creator_name": "柚雲丹うに",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
     "id": "FurrySmokyAlligatorKreygasm-qH5G9P4JdqQGprtc",
     "title": "任せとけって、一旦死んどいた",
     "game": "Overwatch",
@@ -1503,6 +1516,19 @@
     "created_at": "2026-06-09T11:25:17Z",
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7e7e31a0-340d-41c6-919d-dfce44dda4e6/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/FurrySmokyAlligatorKreygasm-qH5G9P4JdqQGprtc",
+    "creator_name": "柚雲丹うに",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
+    "id": "HardEsteemedBeeGivePLZ-daTDjwSJ5o47Z1Y1",
+    "title": "神スリープもこちゃん",
+    "game": "Overwatch",
+    "views": 10,
+    "duration": 6,
+    "created_at": "2026-06-09T13:49:46Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/4d667821-b23b-41af-b8e3-caf06006e22f/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/HardEsteemedBeeGivePLZ-daTDjwSJ5o47Z1Y1",
     "creator_name": "柚雲丹うに",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
@@ -1547,6 +1573,32 @@
     "broadcaster_name": "百猫もこ"
   },
   {
+    "id": "FaintViscousTriangleOneHand-wKEJbR2-nH8zG_WE",
+    "title": "こいつをヤる顔",
+    "game": "Overwatch",
+    "views": 9,
+    "duration": 29,
+    "created_at": "2026-10-11T11:40:38Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6b30828b-9f25-41fe-9f18-1d71dfa248d8/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/FaintViscousTriangleOneHand-wKEJbR2-nH8zG_WE",
+    "creator_name": "チュボ",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
+    "id": "NimbleLightWerewolfCoolStoryBro-ul2gmXs-deybnKUU",
+    "title": "よしよし！ワシャワシャワシャ",
+    "game": "Overwatch",
+    "views": 9,
+    "duration": 23,
+    "created_at": "2026-10-14T12:12:48Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/545a479f-7920-4b88-9d0e-480119db0536/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/NimbleLightWerewolfCoolStoryBro-ul2gmXs-deybnKUU",
+    "creator_name": "ライ1090",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
     "id": "AcceptableClumsyButterflyKippa-ewQORZRtVmy6Mfcv",
     "title": "もこちゃんはデスくしゃみを繰り出した！",
     "game": "Overwatch",
@@ -1556,6 +1608,19 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1629d919-3b53-42bd-a0cd-8135c48bcc08/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/AcceptableClumsyButterflyKippa-ewQORZRtVmy6Mfcv",
     "creator_name": "こふり",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
+    "id": "HomelySweetScorpionStinkyCheese-z5XkQ3rSYpMhTipz",
+    "title": "ざんねぇ～んｗ",
+    "game": "Overwatch",
+    "views": 9,
+    "duration": 12,
+    "created_at": "2026-10-22T14:39:49Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1966be95-35b8-47c9-8153-75122ee6e4bf/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/HomelySweetScorpionStinkyCheese-z5XkQ3rSYpMhTipz",
+    "creator_name": "柚雲丹うに",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -1573,15 +1638,15 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "CloudyAthleticSlothBibleThump-yx7cEFFDz-EHH8pk",
-    "title": "ヤサグレもこ！！！",
-    "game": "Bunny Garden 2",
+    "id": "LaconicWildReubenImGlitch-dZxdhchTJwrBC__2",
+    "title": "クマゼミ",
+    "game": "Overwatch",
     "views": 9,
-    "duration": 19,
-    "created_at": "2026-07-05T13:10:42Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c1405450-7ac4-4cc2-b0f9-8a2212f394eb/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/CloudyAthleticSlothBibleThump-yx7cEFFDz-EHH8pk",
-    "creator_name": "ライ1090",
+    "duration": 5,
+    "created_at": "2026-08-26T11:56:31Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2332131f-8cc8-4787-b903-428dca01ecb0/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/LaconicWildReubenImGlitch-dZxdhchTJwrBC__2",
+    "creator_name": "めき",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -1594,6 +1659,19 @@
     "created_at": "2026-03-28T14:43:24Z",
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e5e15401-e7ec-43f6-ab73-bb32525e2ecd/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/CrunchyGleamingSpindleBudBlast-hn0HjJVi3p4yGlLZ",
+    "creator_name": "ライ1090",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
+    "id": "CloudyAthleticSlothBibleThump-yx7cEFFDz-EHH8pk",
+    "title": "ヤサグレもこ！！！",
+    "game": "Bunny Garden 2",
+    "views": 9,
+    "duration": 19,
+    "created_at": "2026-07-05T13:10:42Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c1405450-7ac4-4cc2-b0f9-8a2212f394eb/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/CloudyAthleticSlothBibleThump-yx7cEFFDz-EHH8pk",
     "creator_name": "ライ1090",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
@@ -1664,6 +1742,19 @@
     "broadcaster_name": "百猫もこ"
   },
   {
+    "id": "GenerousBrainyKumquatRitzMitz-vCvqv1m7N0LiP30n",
+    "title": "タンク様だぞ",
+    "game": "Overwatch",
+    "views": 9,
+    "duration": 7,
+    "created_at": "2026-10-14T12:57:26Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6364c98d-0479-411e-99c6-9a5c56eea71e/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/GenerousBrainyKumquatRitzMitz-vCvqv1m7N0LiP30n",
+    "creator_name": "悪くない微熱",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
     "id": "SmoggyGlamorousMochaLeeroyJenkins-GdHbRgLS0fDz7Bne",
     "title": "※彼女は真剣です",
     "game": "Overwatch",
@@ -1690,6 +1781,32 @@
     "broadcaster_name": "百猫もこ"
   },
   {
+    "id": "ResilientFantasticPancakeKlappa-zvQj-NoeJkoutFkE",
+    "title": "コーディネートもこ",
+    "game": "Overwatch",
+    "views": 9,
+    "duration": 9,
+    "created_at": "2026-10-30T17:33:59Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/098b313d-54ad-4810-86ab-7e4d87878af0/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/ResilientFantasticPancakeKlappa-zvQj-NoeJkoutFkE",
+    "creator_name": "いいな117",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
+    "id": "SmallOnerousPlumberCoolStoryBob-Bo9p2Q1ntDDSBDPV",
+    "title": "ダンシングモコ",
+    "game": "Just Chatting",
+    "views": 9,
+    "duration": 11,
+    "created_at": "2026-11-02T09:16:05Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/5950215b-691a-42f5-bf62-2babb4b3d709/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/SmallOnerousPlumberCoolStoryBob-Bo9p2Q1ntDDSBDPV",
+    "creator_name": "いいな117",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
     "id": "HedonisticAuspiciousDillBCouch-1v36k8Wq768_1yGW",
     "title": "怒もこちゃん",
     "game": "Overwatch",
@@ -1699,19 +1816,6 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9081b86c-dc29-4d6c-8abb-e23a9775ffe5/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/HedonisticAuspiciousDillBCouch-1v36k8Wq768_1yGW",
     "creator_name": "こふり",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
-    "id": "BraveSpicyGrasshopperPanicBasket-NQKOsvMVsOf90-0a",
-    "title": "完全に赤さん",
-    "game": "Overwatch",
-    "views": 8,
-    "duration": 20,
-    "created_at": "2026-04-27T14:45:46Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/539d7c7c-bf3e-4510-906e-c75968fa2253/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/BraveSpicyGrasshopperPanicBasket-NQKOsvMVsOf90-0a",
-    "creator_name": "くれあゑ3ゑ",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -1742,6 +1846,19 @@
     "broadcaster_name": "百猫もこ"
   },
   {
+    "id": "BraveSpicyGrasshopperPanicBasket-NQKOsvMVsOf90-0a",
+    "title": "完全に赤さん",
+    "game": "Overwatch",
+    "views": 8,
+    "duration": 20,
+    "created_at": "2026-04-27T14:45:46Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/539d7c7c-bf3e-4510-906e-c75968fa2253/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/BraveSpicyGrasshopperPanicBasket-NQKOsvMVsOf90-0a",
+    "creator_name": "くれあゑ3ゑ",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
     "id": "SpicyBlueCaterpillarBloodTrail-Tm0IBLf1ruWzi9VL",
     "title": "あのさぁ…あぶな～い♪",
     "game": "Overwatch",
@@ -1751,58 +1868,6 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3697ed0d-c9bf-4c24-a385-866dca0eefff/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/SpicyBlueCaterpillarBloodTrail-Tm0IBLf1ruWzi9VL",
     "creator_name": "こふり",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
-    "id": "FaintViscousTriangleOneHand-wKEJbR2-nH8zG_WE",
-    "title": "こいつをヤる顔",
-    "game": "Overwatch",
-    "views": 8,
-    "duration": 29,
-    "created_at": "2026-10-11T11:40:38Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6b30828b-9f25-41fe-9f18-1d71dfa248d8/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/FaintViscousTriangleOneHand-wKEJbR2-nH8zG_WE",
-    "creator_name": "チュボ",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
-    "id": "NimbleLightWerewolfCoolStoryBro-ul2gmXs-deybnKUU",
-    "title": "よしよし！ワシャワシャワシャ",
-    "game": "Overwatch",
-    "views": 8,
-    "duration": 23,
-    "created_at": "2026-10-14T12:12:48Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/545a479f-7920-4b88-9d0e-480119db0536/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/NimbleLightWerewolfCoolStoryBro-ul2gmXs-deybnKUU",
-    "creator_name": "ライ1090",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
-    "id": "HomelySweetScorpionStinkyCheese-z5XkQ3rSYpMhTipz",
-    "title": "ざんねぇ～んｗ",
-    "game": "Overwatch",
-    "views": 8,
-    "duration": 12,
-    "created_at": "2026-10-22T14:39:49Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1966be95-35b8-47c9-8153-75122ee6e4bf/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/HomelySweetScorpionStinkyCheese-z5XkQ3rSYpMhTipz",
-    "creator_name": "柚雲丹うに",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
-    "id": "SillySincereSalamanderKevinTurtle-Wo8bLLF3KpcNjejG",
-    "title": "お仕事がんばってね",
-    "game": "Overwatch",
-    "views": 8,
-    "duration": 17,
-    "created_at": "2026-04-14T03:26:23Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0bebb6cf-eefd-444c-bc4a-357e66029c3d/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/SillySincereSalamanderKevinTurtle-Wo8bLLF3KpcNjejG",
-    "creator_name": "あまおうくん",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -1820,15 +1885,15 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "LaconicWildReubenImGlitch-dZxdhchTJwrBC__2",
-    "title": "クマゼミ",
+    "id": "SillySincereSalamanderKevinTurtle-Wo8bLLF3KpcNjejG",
+    "title": "お仕事がんばってね",
     "game": "Overwatch",
     "views": 8,
-    "duration": 5,
-    "created_at": "2026-08-26T11:56:31Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2332131f-8cc8-4787-b903-428dca01ecb0/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/LaconicWildReubenImGlitch-dZxdhchTJwrBC__2",
-    "creator_name": "めき",
+    "duration": 17,
+    "created_at": "2026-04-14T03:26:23Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0bebb6cf-eefd-444c-bc4a-357e66029c3d/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/SillySincereSalamanderKevinTurtle-Wo8bLLF3KpcNjejG",
+    "creator_name": "あまおうくん",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -1872,6 +1937,19 @@
     "broadcaster_name": "百猫もこ"
   },
   {
+    "id": "AgitatedFairPastaDancingBaby-JTqDwAFLiPQzhoD8",
+    "title": "配信で流していい映像なのかな？？？",
+    "game": "Overwatch",
+    "views": 8,
+    "duration": 43,
+    "created_at": "2026-10-11T12:11:06Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f55a28bc-614b-428c-95c0-f6d2b7509aa2/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/AgitatedFairPastaDancingBaby-JTqDwAFLiPQzhoD8",
+    "creator_name": "ライ1090",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
     "id": "FlirtyHealthyOpossumWow-zrKumGMAb4T4FOqM",
     "title": "様子のおかしいテレポート",
     "game": "Overwatch",
@@ -1898,6 +1976,19 @@
     "broadcaster_name": "百猫もこ"
   },
   {
+    "id": "FantasticFlirtyMilkUncleNox-fv8_01DgPJMrknyl",
+    "title": "他責（？）タンク",
+    "game": "Overwatch",
+    "views": 8,
+    "duration": 28,
+    "created_at": "2026-10-14T12:51:17Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b67f9141-8762-4004-9dba-b1fb0da758c9/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/FantasticFlirtyMilkUncleNox-fv8_01DgPJMrknyl",
+    "creator_name": "チュボ",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
     "id": "StrangeAgitatedZebraAsianGlow-u-E2lbbzsoV_oNB3",
     "title": "ぴんくもこ・ω・",
     "game": "Kanji de GO!",
@@ -1906,6 +1997,19 @@
     "created_at": "2026-03-27T13:24:17Z",
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/5c695446-b1a3-4c6b-bbbc-e8318ffeab19/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/StrangeAgitatedZebraAsianGlow-u-E2lbbzsoV_oNB3",
+    "creator_name": "ライ1090",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
+    "id": "SecretiveCourageousStorkNotLikeThis-C16pO35Jqy3RY9UM",
+    "title": "昨日のブリーチに引っ張られるもこ・ω・",
+    "game": "Kanji de GO!",
+    "views": 8,
+    "duration": 30,
+    "created_at": "2026-03-27T12:59:38Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c8f5a27e-478d-4d16-8852-1d015f36ed66/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/SecretiveCourageousStorkNotLikeThis-C16pO35Jqy3RY9UM",
     "creator_name": "ライ1090",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
@@ -1920,19 +2024,6 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/5f893d22-003e-405d-8546-fc5e37c30fa3/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/SmoggyFurtiveThymeSeemsGood-f6QxoeBkNCaBxoNg",
     "creator_name": "柚雲丹うに",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
-    "id": "SecretiveCourageousStorkNotLikeThis-C16pO35Jqy3RY9UM",
-    "title": "昨日のブリーチに引っ張られるもこ・ω・",
-    "game": "Kanji de GO!",
-    "views": 8,
-    "duration": 30,
-    "created_at": "2026-03-27T12:59:38Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c8f5a27e-478d-4d16-8852-1d015f36ed66/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/SecretiveCourageousStorkNotLikeThis-C16pO35Jqy3RY9UM",
-    "creator_name": "ライ1090",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -1985,19 +2076,6 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d493e4c2-4889-44d1-95ea-8bfef17dd96a/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/ArbitraryEntertainingDiamondOpieOP-jblr5Ewr-1gYF4qM",
     "creator_name": "柚雲丹うに",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
-    "id": "GenerousBrainyKumquatRitzMitz-vCvqv1m7N0LiP30n",
-    "title": "タンク様だぞ",
-    "game": "Overwatch",
-    "views": 8,
-    "duration": 7,
-    "created_at": "2026-10-14T12:57:26Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6364c98d-0479-411e-99c6-9a5c56eea71e/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/GenerousBrainyKumquatRitzMitz-vCvqv1m7N0LiP30n",
-    "creator_name": "悪くない微熱",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -2210,19 +2288,6 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "AgitatedFairPastaDancingBaby-JTqDwAFLiPQzhoD8",
-    "title": "配信で流していい映像なのかな？？？",
-    "game": "Overwatch",
-    "views": 7,
-    "duration": 43,
-    "created_at": "2026-10-11T12:11:06Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f55a28bc-614b-428c-95c0-f6d2b7509aa2/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/AgitatedFairPastaDancingBaby-JTqDwAFLiPQzhoD8",
-    "creator_name": "ライ1090",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
     "id": "AttractiveTenderBeeGrammarKing-9lEjSUMQw4TY1CRj",
     "title": "焦ってDIO様になるもこちゃん",
     "game": "Overwatch",
@@ -2232,19 +2297,6 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/86ec73d2-3e2e-45fd-9ebf-5e7495db71d4/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/AttractiveTenderBeeGrammarKing-9lEjSUMQw4TY1CRj",
     "creator_name": "こふり",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
-    "id": "FantasticFlirtyMilkUncleNox-fv8_01DgPJMrknyl",
-    "title": "他責（？）タンク",
-    "game": "Overwatch",
-    "views": 7,
-    "duration": 28,
-    "created_at": "2026-10-14T12:51:17Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b67f9141-8762-4004-9dba-b1fb0da758c9/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/FantasticFlirtyMilkUncleNox-fv8_01DgPJMrknyl",
-    "creator_name": "チュボ",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -2275,6 +2327,19 @@
     "broadcaster_name": "百猫もこ"
   },
   {
+    "id": "CallousTrappedUdonDoritosChip-FBjKge-F_NNiJVMv",
+    "title": "ンゴ！！！",
+    "game": "Overwatch",
+    "views": 7,
+    "duration": 16,
+    "created_at": "2026-10-11T11:56:24Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/08aa2217-98f0-4214-b86d-87ee3460e931/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/CallousTrappedUdonDoritosChip-FBjKge-F_NNiJVMv",
+    "creator_name": "ライ1090",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
     "id": "DreamyPatientCattleTakeNRG-7MtXBlknLOZeWLZN",
     "title": "丸くなって寝るもこちゃん",
     "game": "Overwatch",
@@ -2284,6 +2349,19 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7cf6f541-144c-4e77-bb1d-4c678c346e29/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/DreamyPatientCattleTakeNRG-7MtXBlknLOZeWLZN",
     "creator_name": "こふり",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
+    "id": "EvilFantasticBeefMrDestructoid-S9AMiSHLjdmnt75P",
+    "title": "爆速フラグ回収！！！",
+    "game": "Overwatch",
+    "views": 7,
+    "duration": 30,
+    "created_at": "2026-10-11T12:05:54Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6f495eff-d67c-474f-93fc-3cbf0c6bb5b8/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/EvilFantasticBeefMrDestructoid-S9AMiSHLjdmnt75P",
+    "creator_name": "ライ1090",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -2310,6 +2388,32 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/866805e5-4c99-4dbb-a039-78aed21f655c/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/PiercingFrozenPartridgeTheTarFu-uI19F0JP8JqYfIS2",
     "creator_name": "こふり",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
+    "id": "ConcernedPrettyAsteriskBCouch-MbqshzKik_T1gDsD",
+    "title": "五十音があやしいもこ",
+    "game": "Overwatch",
+    "views": 7,
+    "duration": 25,
+    "created_at": "2026-10-21T12:44:33Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1281baee-9ccf-4041-be92-dea214286d4c/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/ConcernedPrettyAsteriskBCouch-MbqshzKik_T1gDsD",
+    "creator_name": "いいな117",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
+    "id": "TameAmusedDurianFUNgineer-HTuOOllLJt7uZkgM",
+    "title": "食べながらしゃべりません",
+    "game": "Overwatch",
+    "views": 6,
+    "duration": 16,
+    "created_at": "2026-10-24T15:28:35Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ac80d597-0e20-49b1-a470-252f70963297/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/TameAmusedDurianFUNgineer-HTuOOllLJt7uZkgM",
+    "creator_name": "いいな117",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -2405,19 +2509,6 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "ComfortableVibrantSalmonImGlitch-K1LVk7q8T15bhsBK",
-    "title": "ｳｧｰﾔﾝﾔﾝﾔﾝﾔﾝﾆｬﾝﾆｬﾝﾆｬﾝｺｲﾂﾏｼﾞﾃﾞｻｧ…",
-    "game": "Overwatch",
-    "views": 6,
-    "duration": 6,
-    "created_at": "2026-04-18T03:15:37Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9add983e-4016-4a91-abc4-2db9ca704f78/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/ComfortableVibrantSalmonImGlitch-K1LVk7q8T15bhsBK",
-    "creator_name": "いとうさんほ",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
     "id": "LittleConcernedPenguinPanicBasket-csZGAGTd4h7bkJbb",
     "title": "女の子はだれでも2",
     "game": "Overwatch",
@@ -2457,45 +2548,6 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "CovertAliveHamsterMoreCowbell-VqWfh0MnsZAnS5yO",
-    "title": "実質カイジ",
-    "game": "Overwatch",
-    "views": 6,
-    "duration": 7,
-    "created_at": "2026-05-12T12:46:36Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0f75e376-4d3b-478e-88a7-e9260fe93173/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/CovertAliveHamsterMoreCowbell-VqWfh0MnsZAnS5yO",
-    "creator_name": "いとうさんほ",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
-    "id": "CallousTrappedUdonDoritosChip-FBjKge-F_NNiJVMv",
-    "title": "ンゴ！！！",
-    "game": "Overwatch",
-    "views": 6,
-    "duration": 16,
-    "created_at": "2026-10-11T11:56:24Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/08aa2217-98f0-4214-b86d-87ee3460e931/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/CallousTrappedUdonDoritosChip-FBjKge-F_NNiJVMv",
-    "creator_name": "ライ1090",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
-    "id": "ArtsyRoughReubenCurseLit-SuvPciU99Eu282J7",
-    "title": "本音",
-    "game": "Overwatch",
-    "views": 6,
-    "duration": 6,
-    "created_at": "2026-03-29T14:06:07Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/4caa133d-5020-4e7e-9474-2c5048a09c82/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/ArtsyRoughReubenCurseLit-SuvPciU99Eu282J7",
-    "creator_name": "こふり",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
     "id": "ArtisticZanyMagpieKappaWealth-gAFSIxj516rIEvk8",
     "title": "エムレの新情報",
     "game": "Overwatch",
@@ -2509,15 +2561,15 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "EvilFantasticBeefMrDestructoid-S9AMiSHLjdmnt75P",
-    "title": "爆速フラグ回収！！！",
+    "id": "ArtsyRoughReubenCurseLit-SuvPciU99Eu282J7",
+    "title": "本音",
     "game": "Overwatch",
     "views": 6,
-    "duration": 30,
-    "created_at": "2026-10-11T12:05:54Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6f495eff-d67c-474f-93fc-3cbf0c6bb5b8/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/EvilFantasticBeefMrDestructoid-S9AMiSHLjdmnt75P",
-    "creator_name": "ライ1090",
+    "duration": 6,
+    "created_at": "2026-03-29T14:06:07Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/4caa133d-5020-4e7e-9474-2c5048a09c82/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/ArtsyRoughReubenCurseLit-SuvPciU99Eu282J7",
+    "creator_name": "こふり",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -2574,19 +2626,6 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "PrettyWimpyDonkeyRiPepperonis-x9GHwu9eDA-EfnPF",
-    "title": "落ちちゃった！",
-    "game": "Overwatch",
-    "views": 6,
-    "duration": 24,
-    "created_at": "2026-04-06T05:38:17Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6454dce2-6b0d-4363-bdbf-b2be08a7ba39/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/PrettyWimpyDonkeyRiPepperonis-x9GHwu9eDA-EfnPF",
-    "creator_name": "あまおうくん",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
     "id": "AbrasiveSullenQueleaRuleFive-oqQPcMvxow7UFTON",
     "title": "ぽい捨てもこちゃん",
     "game": "Overwatch",
@@ -2596,6 +2635,19 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/4a7376a6-3718-41fe-a004-75e365714e14/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/AbrasiveSullenQueleaRuleFive-oqQPcMvxow7UFTON",
     "creator_name": "柚雲丹うに",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
+    "id": "PrettyWimpyDonkeyRiPepperonis-x9GHwu9eDA-EfnPF",
+    "title": "落ちちゃった！",
+    "game": "Overwatch",
+    "views": 6,
+    "duration": 24,
+    "created_at": "2026-04-06T05:38:17Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6454dce2-6b0d-4363-bdbf-b2be08a7ba39/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/PrettyWimpyDonkeyRiPepperonis-x9GHwu9eDA-EfnPF",
+    "creator_name": "あまおうくん",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -2626,19 +2678,6 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "ConcernedPrettyAsteriskBCouch-MbqshzKik_T1gDsD",
-    "title": "五十音があやしいもこ",
-    "game": "Overwatch",
-    "views": 6,
-    "duration": 25,
-    "created_at": "2026-10-21T12:44:33Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/1281baee-9ccf-4041-be92-dea214286d4c/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/ConcernedPrettyAsteriskBCouch-MbqshzKik_T1gDsD",
-    "creator_name": "いいな117",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
     "id": "FurtiveBoredJellyfishKappaWealth-m8aqTw9Lw7XzS87r",
     "title": "ｲｸｾﾞ",
     "game": "Overwatch",
@@ -2648,19 +2687,6 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/20d45502-f936-47e6-b4e5-d224c76d9a0c/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/FurtiveBoredJellyfishKappaWealth-m8aqTw9Lw7XzS87r",
     "creator_name": "こふり",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
-    "id": "CreativeViscousTofuSeemsGood-IUCBbpVf0_Dnxj2Z",
-    "title": "なんか、負けたいな〜って思ってぇ〜。",
-    "game": "Overwatch",
-    "views": 5,
-    "duration": 8,
-    "created_at": "2026-10-27T14:47:24Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7a85b519-24b8-4691-92f5-0d46c451718d/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/CreativeViscousTofuSeemsGood-IUCBbpVf0_Dnxj2Z",
-    "creator_name": "まさおｸﾝ",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -2821,19 +2847,6 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "UglyRockyChoughKappaPride-jMoBVIjv5wNNnTC_",
-    "title": "ｺｺｺｺｺｺｺｺｺｺｺｺｺｺｺｺｺﾓｺｷﾀﾖ",
-    "game": "Overwatch",
-    "views": 5,
-    "duration": 10,
-    "created_at": "2026-04-09T12:02:10Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3de4ff82-2358-4c76-9935-962861f18f0d/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/UglyRockyChoughKappaPride-jMoBVIjv5wNNnTC_",
-    "creator_name": "いとうさんほ",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
     "id": "RelatedCharmingOrcaAsianGlow-Pfy2CquyVMg3h_KK",
     "title": "えええええ゛え゛え゛え゛",
     "game": "Overwatch",
@@ -2886,19 +2899,6 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "AmazingPhilanthropicSaladArgieB8-zORZ21v_5reTQBs4",
-    "title": "任せろ俺のウルトに(イケボ)",
-    "game": "Overwatch",
-    "views": 5,
-    "duration": 6,
-    "created_at": "2026-04-12T11:35:52Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ff80d579-6ddb-4c0d-a276-93fc5a771bd3/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/AmazingPhilanthropicSaladArgieB8-zORZ21v_5reTQBs4",
-    "creator_name": "こふり",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
     "id": "DependableMotionlessWallabyCclamChamp-DxEfaWgaiz2wxJsi",
     "title": "失言",
     "game": "Overwatch",
@@ -2912,15 +2912,15 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "GloriousBoredFennelSMOrc--_jq3IBmmauh3td6",
-    "title": "ｺｲﾁｭﾏｼﾞﾃﾞｻｧ…",
+    "id": "AmazingPhilanthropicSaladArgieB8-zORZ21v_5reTQBs4",
+    "title": "任せろ俺のウルトに(イケボ)",
     "game": "Overwatch",
     "views": 5,
-    "duration": 5,
-    "created_at": "2026-04-18T03:12:29Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a5bc3ac1-e028-4693-a443-bafabf15808b/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/GloriousBoredFennelSMOrc--_jq3IBmmauh3td6",
-    "creator_name": "いとうさんほ",
+    "duration": 6,
+    "created_at": "2026-04-12T11:35:52Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ff80d579-6ddb-4c0d-a276-93fc5a771bd3/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/AmazingPhilanthropicSaladArgieB8-zORZ21v_5reTQBs4",
+    "creator_name": "こふり",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -3068,15 +3068,15 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "TameAmusedDurianFUNgineer-HTuOOllLJt7uZkgM",
-    "title": "食べながらしゃべりません",
+    "id": "WonderfulAmusedCaribouMau5-pjHtR5IcQiS1FZb4",
+    "title": "みんなうるさいよ！",
     "game": "Overwatch",
     "views": 4,
-    "duration": 16,
-    "created_at": "2026-10-24T15:28:35Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ac80d597-0e20-49b1-a470-252f70963297/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/TameAmusedDurianFUNgineer-HTuOOllLJt7uZkgM",
-    "creator_name": "いいな117",
+    "duration": 5,
+    "created_at": "2026-11-07T14:06:44Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7b87dc76-4698-4bf2-9dff-290bbde45c60/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/WonderfulAmusedCaribouMau5-pjHtR5IcQiS1FZb4",
+    "creator_name": "まさおｸﾝ",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -3155,6 +3155,19 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6146ab44-d394-46e0-a911-4754d53790b4/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/CrispyTangentialPeanutTakeNRG-jpsRn-1jRUWlvANM",
     "creator_name": "こふり",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
+    "id": "FamousCrackyMarjoramDatBoi-B7p9YBzDSMqGuG_j",
+    "title": "本日のポイ捨て",
+    "game": "Overwatch",
+    "views": 4,
+    "duration": 8,
+    "created_at": "2026-10-24T12:12:07Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b1430fcf-d051-4096-9d15-ec780d1dfdba/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/FamousCrackyMarjoramDatBoi-B7p9YBzDSMqGuG_j",
+    "creator_name": "柚雲丹うに",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -3263,19 +3276,6 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "ArtsyRelentlessBorkItsBoshyTime-XwN0nrmv1a5nJAa7",
-    "title": "おもしろTP",
-    "game": "Overwatch",
-    "views": 4,
-    "duration": 12,
-    "created_at": "2026-08-22T13:23:18Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ba78a905-0b3a-41f3-b38f-f6f150c0b8bf/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/ArtsyRelentlessBorkItsBoshyTime-XwN0nrmv1a5nJAa7",
-    "creator_name": "柚雲丹うに",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
     "id": "TemperedUnusualMagpieCurseLit-W7NRLXoKUQotllNz",
     "title": "いやいや、イタい！ンゴー(´・ω・｀)",
     "game": "Overwatch",
@@ -3285,6 +3285,19 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9e125360-d9a2-4c49-af2b-e60340ac84c0/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/TemperedUnusualMagpieCurseLit-W7NRLXoKUQotllNz",
     "creator_name": "ライ1090",
+    "language": "ja",
+    "broadcaster_name": "百猫もこ"
+  },
+  {
+    "id": "ArtsyRelentlessBorkItsBoshyTime-XwN0nrmv1a5nJAa7",
+    "title": "おもしろTP",
+    "game": "Overwatch",
+    "views": 4,
+    "duration": 12,
+    "created_at": "2026-08-22T13:23:18Z",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ba78a905-0b3a-41f3-b38f-f6f150c0b8bf/landscape/thumb/thumb-0000000000-480x272.jpg",
+    "clip_url": "https://www.twitch.tv/100nekox/clip/ArtsyRelentlessBorkItsBoshyTime-XwN0nrmv1a5nJAa7",
+    "creator_name": "柚雲丹うに",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   },
@@ -3458,19 +3471,6 @@
     "broadcaster_name": "百猫もこ"
   },
   {
-    "id": "FamousCrackyMarjoramDatBoi-B7p9YBzDSMqGuG_j",
-    "title": "本日のポイ捨て",
-    "game": "Overwatch",
-    "views": 3,
-    "duration": 8,
-    "created_at": "2026-10-24T12:12:07Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b1430fcf-d051-4096-9d15-ec780d1dfdba/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/FamousCrackyMarjoramDatBoi-B7p9YBzDSMqGuG_j",
-    "creator_name": "柚雲丹うに",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
     "id": "ColorfulLovelyAniseNinjaGrumpy-ze9Zvv2tIEnm5hzE",
     "title": "わ～お",
     "game": "Overwatch",
@@ -3519,19 +3519,6 @@
     "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3639e12e-dc2f-4013-b140-4438723e0d4b/landscape/thumb/thumb-0000000000-480x272.jpg",
     "clip_url": "https://www.twitch.tv/100nekox/clip/InspiringAstuteBaguetteTwitchRPG-GUVe35rySn7kN-r-",
     "creator_name": "ライ1090",
-    "language": "ja",
-    "broadcaster_name": "百猫もこ"
-  },
-  {
-    "id": "ResilientFantasticPancakeKlappa-zvQj-NoeJkoutFkE",
-    "title": "コーディネートもこ",
-    "game": "Overwatch",
-    "views": 3,
-    "duration": 9,
-    "created_at": "2026-10-30T17:33:59Z",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/098b313d-54ad-4810-86ab-7e4d87878af0/landscape/thumb/thumb-0000000000-480x272.jpg",
-    "clip_url": "https://www.twitch.tv/100nekox/clip/ResilientFantasticPancakeKlappa-zvQj-NoeJkoutFkE",
-    "creator_name": "いいな117",
     "language": "ja",
     "broadcaster_name": "百猫もこ"
   }
